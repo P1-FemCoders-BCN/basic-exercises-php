@@ -9,9 +9,13 @@
 </head>
 
 <body>
-    <h1>PHP básico</h1>
+    <a href="https://www.w3schools.com/php/default.asp">
+        <h1>PHP básico</h1>
+    </a>
 
-    <h2>Sintaxis básica</h2>
+    <a href="https://www.w3schools.com/php/php_syntax.asp">
+        <h2>Sintaxis básica</h2>
+    </a>
     <ol>
         <li>Un script en PHP comienza con <strong>
                 < ? php</strong> y termina con <strong>? ></strong></li>
@@ -19,7 +23,9 @@
         <li>Cada declaración termina con <strong>;</strong></li>
     </ol>
 
-    <h2>Variables</h2>
+    <a href="https://www.w3schools.com/php/php_variables.asp">
+        <h2>Variables</h2>
+    </a>
     <p>Una variable es un espacio almacenado en el programa que contiene un valor. Se puede modificar su valor. Reglas de una variable en php:</p>
     <ol>
         <li>Empieza con el signo <strong>$</strong></li>
@@ -28,7 +34,9 @@
         <li>Distingue mayúsculas y minúsculas.</li>
     </ol>
 
-    <h2>Constantes</h2>
+    <a href="https://www.w3schools.com/php/php_constants.asp">
+        <h2>Constantes</h2>
+    </a>
     <p>Una constante al igual que una variable también es un espacio almacenado en el programa que contiene un valor. Se diferencia de la variable porque no se puede modificar su valor durante la ejecución del script. Características:</p>
     <ol>
         <li>El alcance de la constante es global.</li>
@@ -38,7 +46,9 @@
         <li>Por convención los identificadores de las constantes siempre se declaran en mayúsculas aunque reconozca minúsculas.</li>
     </ol>
 
-    <h2>Tipos de datos</h2>
+    <a href="https://www.w3schools.com/php/php_datatypes.asp">
+        <h2>Tipos de datos</h2>
+    </a>
     <ol>
         <li><strong>String: </strong>es una secuencia de caracteres, usa comillas</li>
         <li><strong>Integer: </strong>número no decimal, puede ser negativo o positivo</li>
@@ -49,7 +59,9 @@
         <li><strong>NULL: </strong>no tiene ningún valor</li>
     </ol>
 
-    <h2>Imprimir en pantalla</h2>
+    <a href="https://www.w3schools.com/php/php_echo_print.asp">
+        <h2>Imprimir en pantalla</h2>
+    </a>
     <ol>
         <li><strong>Echo</strong></li>
         <li><strong>Print</strong></li>
