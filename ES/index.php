@@ -10,7 +10,7 @@
 
 <body>
     <a href="https://www.w3schools.com/php/default.asp">
-        <h1>PHP básico</h1>
+        <h1>PHP básico, primera parte</h1>
     </a>
 
     <a href="https://www.w3schools.com/php/php_syntax.asp">
