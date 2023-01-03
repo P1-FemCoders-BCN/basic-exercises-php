@@ -9,9 +9,13 @@
 </head>
 
 <body>
-    <h1>PHP basic</h1>
-
-    <h2>Basic Syntax</h2>
+    <a href="https://www.w3schools.com/php/default.asp">
+       <h1>PHP basic</h1>
+    </a>
+    
+    <a href="https://www.w3schools.com/php/php_syntax.asp">
+        <h2>Basic Syntax</h2>
+    </a>
     <ol>
         <li>A PHP script starts with <strong>
                 < ? php</strong> and ends with <strong>? ></strong></li>
@@ -19,7 +23,9 @@
         <li>Each statement ends with <strong>;</strong></li>
     </ol>
 
-    <h2>Variables</h2>
+    <a href="https://www.w3schools.com/php/php_variables.asp">
+        <h2>Variables</h2>
+    </a>
     <p>A variable is a space stored in the program that contains a value. Its value can be modified. Rules of a variable in php:</p>
     <ol>
         <li>Start with sign <strong>$</strong></li>
@@ -28,7 +34,9 @@
         <li>Is case sensitive.</li>
     </ol>
 
-    <h2>Constants</h2>
+    <a href="https://www.w3schools.com/php/php_constants.asp">
+        <h2>Constants</h2>
+    </a>
     <p>A constant, like a variable, is also a space stored in the program that contains a value. It differs from a variable in that its value cannot be changed during script execution. Features:</p>
     <ol>
         <li>The scope of the constant is global.</li>
@@ -38,7 +46,9 @@
         <li>Por convención los identificadores de las constantes siempre se declaran en mayúsculas aunque reconozca minúsculas. </li>
     </ol>
 
-    <h2>Data Types</h2>
+    <a href="https://www.w3schools.com/php/php_datatypes.asp">
+        <h2>Data Types</h2>
+    </a>
     <ol>
         <li><strong>String: </strong>is a sequence of characters, use quotes</li>
         <li><strong>Integer: </strong>non-decimal number, can be negative or positive</li>
@@ -49,7 +59,9 @@
         <li><strong>NULL: </strong>has no value</li>
     </ol>
 
-    <h2>Print on screen</h2>
+    <a href="https://www.w3schools.com/php/php_echo_print.asp">
+        <h2>Print on screen</h2>
+    </a>
     <ol>
         <li><strong>Echo</strong></li>
         <li><strong>Print</strong></li>
