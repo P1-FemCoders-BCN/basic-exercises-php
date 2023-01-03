@@ -23,7 +23,7 @@
     <p>Una variable es un espacio almacenado en el programa que contiene un valor. Se puede modificar su valor. Reglas de una variable en php:</p>
     <ol>
         <li>Empieza con el signo <strong>$</strong></li>
-        <li>Puede empezar con una letra o un guión bajo, nunca con un número</li>
+        <li>Puede empezar con una letra o un guión bajo, nunca con un número.</li>
         <li>Puede contener solo caracteres alfanuméricos y guión bajo.</li>
         <li>Distingue mayúsculas y minúsculas.</li>
     </ol>
@@ -33,8 +33,9 @@
     <ol>
         <li>El alcance de la constante es global.</li>
         <li>La manera de definir una constante dentro de una clase es diferente que hacerlo en un script.</li>
-        <li>Es script: <strong>define('NOMBREDELACONSTANTE', 'valor-de-la-constante');</strong></li>
+        <li>En script: <strong>define('NOMBREDELACONSTANTE', 'valor-de-la-constante');</strong></li>
         <li>En clase: <strong>const NOMBREDELACONSTANTE = 'valor-de-la-constante';</strong></li>
+        <li>Por convención los identificadores de las constantes siempre se declaran en mayúsculas aunque reconozca minúsculas.</li>
     </ol>
 
     <h2>Tipos de datos</h2>
@@ -57,7 +58,7 @@
     <h2>Ejercicios</h2>
     <h3>Básicos</h3>
     <ul>
-        <li>Crear un archivo de php dentro de tu carpeta htdocs de xampp o mamp. No te olvides de encender el servidor.</li>
+        <li>Clonar este repo de php dentro de tu carpeta htdocs de xampp o mamp. No te olvides de encender el servidor.</li>
         <li>Ejercicio 1: Crear una variable por cada tipo de dato (excepto objeto).</li>
         <li>Ejercicio 2: Imprimir las variables en pantalla (Averigua cómo imprimir el valor booleano (que imprima true o false), un array y un valor nulo (que imprima NULL).</li>
     </ul>
@@ -68,7 +69,7 @@
     //Ejercicio 1 -> Crear una variable por cada tipo de dato (excepto objeto).
 
     $string = 'Hola';
-    //Escribe tu código aquí...
+    //Continúa escribiendo tu código aquí...
 
     //Ejercicio 2 -> Imprimir las variables en pantalla (Averigua cómo imprimir el valor booleano (que imprima true o false), un array y un valor nulo (que imprima NULL).
 
@@ -79,7 +80,7 @@
     <h3>De tipo Strings</h3>
     <ul>
         <li>Ejercicio 3: Crea una variable de tipo string cuyo valor sea 'Hola Mundo' e imprime en pantalla.</li>
-        <li>Ejercicio 4: Convierte todos los caracteres del string a mayúsculas e imprimir en pantalla, sin modificar la variable original</li>
+        <li>Ejercicio 4: Convierte todos los caracteres del string a mayúsculas e imprimir en pantalla, sin modificar la variable original.</li>
         <li>Ejercicio 5: Imprime en pantalla la longitud de la variable tipo string.</li>
         <li>Ejercicio 6: Imprime en pantalla la cantidad de palabras de la variable tipo string.</li>
         <li>Ejercicio 7: Cambia a orden inverso los caracteres de la variable string e imprime en pantalla, sin modificar la variable original.</li>
@@ -120,8 +121,7 @@
     //Escribe tu código aquí...
 
     //Ejercicio 10 -> Crea una constante con tu nombre e imprime en pantalla.
-    //Por convención los identificadores de las constantes siempre se declaran en mayúsculas aunque reconozca minúsculas. 
-
+    
     //Escribe tu código aquí...
     ?>
 
@@ -136,7 +136,7 @@
         <li>Ejercicio 17: Declara dos variables y dale un valor de tipo double e imprime ambas en pantalla.</li>
         <li>Ejercicio 18: Repite los pasos del 2 al 6 pero para las variables de tipo double e imprime en pantalla.</li>
         <li>Ejercicio 19: Declara una variable de tipo integer con un valor negativo y cambia con una función propia de php al valor positivo e imprime en pantalla.</li>
-        <li>Ejercicio 20: Declara una variable de tipo double y redondea e imprime en pantalla.</li>
+        <li>Ejercicio 20: Declara una variable de tipo double y redondea su valor, imprime en pantalla.</li>
         <li>Ejercicio 21: Obtén un número aleatorio del 1 al 100 e imprime en pantalla.</li>
     </ul>
     <h4>Resultados de ejercicios de tipo integer y double:</h4>
@@ -179,7 +179,7 @@
 
     //Escribe tu código aquí...
 
-    //Ejercicio 20 -> declara una variable de tipo double y redondea e imprime en pantalla.
+    //Ejercicio 20 -> Declara una variable de tipo double y redondea su valor, imprime en pantalla.
 
     //Escribe tu código aquí...
 
