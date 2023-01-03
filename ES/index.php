@@ -44,7 +44,7 @@
         <li><strong>Integer: </strong>número no decimal, puede ser negativo o positivo</li>
         <li><strong>Float or Double: </strong>número decimal</li>
         <li><strong>Boolean: </strong>contiene dos estados, verdadero o falso (true / false)</li>
-        <li><strong>Array: </strong>es el conjunto de múltiples valores dentro de una sola variable</li>
+        <li><strong>Array: </strong>es el conjunto de múltiples valores dentro de una sola variable, existen 3 tipos, arrays simples o indexados, arrays asociativos con llave=>valor y arrays multidimensionales (arrays que contienen otros arrays)</li>
         <li><strong>Object: </strong>es una instancia de una clase</li>
         <li><strong>NULL: </strong>no tiene ningún valor</li>
     </ol>
