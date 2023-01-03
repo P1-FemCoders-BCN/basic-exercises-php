@@ -44,7 +44,7 @@
         <li><strong>Integer: </strong>non-decimal number, can be negative or positive</li>
         <li><strong>Float or Double: </strong>decimal number</li>
         <li><strong>Boolean: </strong>contains two states, true or false</li>
-        <li><strong>Array: </strong>is the set of multiple values ​​within a single variable</li>
+        <li><strong>Array: </strong>is the set of multiple values ​​within a single variable, there are 3 types, simple or indexed arrays, associative arrays with key=>value and multidimensional arrays (arrays that contain other arrays) </li>
         <li><strong>Object: </strong>is an instance of a class</li>
         <li><strong>NULL: </strong>has no value</li>
     </ol>
